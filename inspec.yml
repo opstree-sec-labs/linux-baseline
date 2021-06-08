@@ -1,0 +1,17 @@
+---
+name: linux-baseline-opstree
+title: Opstree linux Baseline
+maintainer: Opstree Security Team
+copyright: Opstree Security Team
+copyright_email: security@opstree.com
+license: Apache-2.0
+summary: Best-practice :inux hardening
+version: 4.0.3
+supports:
+    - os-family: unix
+
+# attributes:
+#     - name: 
+#     value: "prashant"
+#     - name: 
+#     value: "root"
